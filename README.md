@@ -8,7 +8,7 @@ Identify the variables that significantly influenced whether or not lidocaine wa
 
 ## Methodology
 - Evaluated model fit and compared effect size by using an odds ratio test on all the variables used.
-- Determined which variables to keep in the model by running Nagelkerke R². 
+- Determine which variables to keep in the model by running Nagelkerke R². 
 - Built a logistic regression model with the variables kept.
 
 ## Conclusion 
