@@ -11,7 +11,7 @@ Identify the variables that significantly influenced whether or not lidocaine wa
 - Determined which variables to keep in the model by running Nagelkerke R². 
 - Built a logistic regression model with the variables kept.
 
-# Conclusion 
+## Conclusion 
 The variables found to significantly influence the possibility of lidocaine infusion were the hospital location, the case type, and whether or not they received an alternative pain medication during surgery.  
 
 ## Files 
