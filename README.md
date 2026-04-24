@@ -15,3 +15,6 @@ Identify the variables that significantly influenced whether or not lidocaine wa
 The variables found to significantly influence the possibility of lidocaine infusion were the hospital location, the case type, and whether or not they received an alternative pain medication during surgery.  
 
 ##Files 
+-Lido.R: The code used to run the project in R.
+-Final Regression Model.pdf: The outputs I after running the regression model.
+-FINAL LIDO DATASET(1).xlsx: The full dataset used for the project (although not all variables were used).
